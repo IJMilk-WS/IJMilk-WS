@@ -7,6 +7,23 @@
 유저 경험 개선과 원할한 협업을 위한 협업 패턴 및 코드 리뷰, 피드백에 관심이 많습니다 :)
 
 ### Skills
+💪 Strong <br />
+<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-7cc5d9?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white" />
+<br/><br/>
+✍️ Knowledgeable<br/>
+<img src="https://img.shields.io/badge/Node.js-68a063?style=flat-square&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-303030?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonAWS&logoColor=white" />
+<br/><br/>
+🔍 Interested in<br/>
+<img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React Native-61DBFB?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-db0054?style=flat-square&logo=nestjs&logoColor=white" />
+
+
 
 
 <!--
