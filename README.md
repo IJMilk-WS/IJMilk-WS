@@ -1,4 +1,13 @@
-### Hi there 👋
+### Contact
+[<img src="https://img.shields.io/badge/Blog-32D9D9?style=flat-square&logo=note&logoColor=white" />](https://velog.io/@rladntjd320)
+<img src="https://img.shields.io/badge/rladntjd320@gmail.com-FF1414?style=flat-square&logo=gmail&logoColor=white" />
+
+움직이는 모든것을 보고 이해 하는것을 좋아하는 프론트엔드 개발자 입니다!
+
+유저 경험 개선과 원할한 협업을 위한 협업 패턴 및 코드 리뷰, 피드백에 관심이 많습니다 :)
+
+### Skills
+
 
 <!--
 **IJMilk-WS/IJMilk-WS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
