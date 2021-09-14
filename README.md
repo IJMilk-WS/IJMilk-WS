@@ -21,7 +21,7 @@
 🔍 Interested in<br/>
 <img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React Native-61DBFB?style=flat-square&logo=React&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-db0054?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 
 
 
